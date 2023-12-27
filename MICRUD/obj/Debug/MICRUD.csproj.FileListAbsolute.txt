@@ -1,0 +1,12 @@
+C:\Prueba\C#\MICRUD\bin\Debug\MICRUD.exe.config
+C:\Prueba\C#\MICRUD\bin\Debug\MICRUD.exe
+C:\Prueba\C#\MICRUD\bin\Debug\MICRUD.pdb
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.csproj.AssemblyReference.cache
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.Presentacion.MenuPrincipal.resources
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.Properties.Resources.resources
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.csproj.GenerateResource.cache
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.csproj.CoreCompileInputs.cache
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.exe
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.pdb
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.Presentacion.Personal.resources
+C:\Prueba\C#\MICRUD\obj\Debug\MICRUD.Presentacion.TomarAsistencia.resources

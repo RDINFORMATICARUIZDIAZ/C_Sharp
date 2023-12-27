@@ -1,0 +1,17 @@
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\bin\Debug\net6.0-windows\Facturacion_VB.exe
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\bin\Debug\net6.0-windows\Facturacion_VB.deps.json
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\bin\Debug\net6.0-windows\Facturacion_VB.runtimeconfig.json
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\bin\Debug\net6.0-windows\Facturacion_VB.dll
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\bin\Debug\net6.0-windows\Facturacion_VB.pdb
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.vbproj.GenerateResource.cache
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.AssemblyInfoInputs.cache
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.AssemblyInfo.vb
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.vbproj.CoreCompileInputs.cache
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.sourcelink.json
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.dll
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\refint\Facturacion_VB.dll
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.pdb
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.genruntimeconfig.cache
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\ref\Facturacion_VB.dll
+C:\Prueba\C#\Facturacion_VB\Facturacion_VB\obj\Debug\net6.0-windows\Facturacion_VB.Bienvenidos.resources
