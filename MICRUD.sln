@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MICRUD", "MICRUD.csproj", "{794C3F09-2AD0-4BB7-B0B8-3EE567A86490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794C3F09-2AD0-4BB7-B0B8-3EE567A86490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794C3F09-2AD0-4BB7-B0B8-3EE567A86490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794C3F09-2AD0-4BB7-B0B8-3EE567A86490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794C3F09-2AD0-4BB7-B0B8-3EE567A86490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3BC49EC-38F7-4D16-B14F-9A10796E287F}
+	EndGlobalSection
+EndGlobal
